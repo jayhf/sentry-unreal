@@ -31,6 +31,9 @@
 - Bump Java SDK (Android) from v8.2.0-1-g9180dc53 to v8.2.0 ([#783](https://github.com/getsentry/sentry-unreal/pull/783))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#820)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.2.0-1-g9180dc53...8.2.0)
+- Bump Java SDK (Android) from v8.2.0 to v8.3.0 ([#3](https://github.com/jayhf/sentry-unreal/pull/3))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#830)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.2.0...8.3.0)
 
 ### Internal
 
